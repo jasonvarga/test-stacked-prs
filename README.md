@@ -1,3 +1,5 @@
 # Test Stacked PR
 
-This PR exists to test the stacked PRs feature. 
+Testing GitHub's stacked PRs feature.
+
+An extra line added directly to PR #1.
