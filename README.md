@@ -19,3 +19,5 @@ This is the first change for the rebase-merge test.
 This is the second change for the rebase-merge test.
 
 This is the change for PR 2 of the rebase-merge test.
+
+This is the first change for stack round 4.
